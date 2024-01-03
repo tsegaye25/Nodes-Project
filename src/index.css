@@ -1,0 +1,10 @@
+body {
+  background-color: red ;
+  color: blue;
+  font-size: 40px;
+}
+
+input {
+  color: green;
+  overflow: hidden;
+}
